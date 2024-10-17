@@ -1,7 +1,8 @@
 # Material Button and Toast
 
 
-[![JitPack](https://img.shields.io/badge/JitPack-1.0.0-brightgreen.svg?style=for-the-badge)](https://jitpack.io/#debacodex/button-icon)        
+[![JitPack](https://img.shields.io/badge/JitPack-1.0.0-brightgreen.svg?style=for-the-badge)](https://jitpack.io/#debacodex/button-icon) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdebacodex%2Fbutton-icon.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdebacodex%2Fbutton-icon?ref=badge_shield)
+       
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://debacodes.blogspot.com)   
 
@@ -301,3 +302,7 @@ Use material button in the layout via xml
 ## Author & support
 This project was created by [Debashis Sabar](https://www.instagram.com/mr_deba_000) .
 > You can help us to keep my open source projects up to date!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdebacodex%2Fbutton-icon.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdebacodex%2Fbutton-icon?ref=badge_large)
